@@ -1,11 +1,9 @@
 [package]
 name = "openapi_rocketapi"
 version = "0.1.5"
-authors = ["softprops <d.tangren@gmail.com>"]
+authors = ["kristoffer <kristoffer.odmark90@gmail.com>", "softprops <d.tangren@gmail.com>"]
 description = "Rust bindings for openapi schemas"
-documentation = "https://softprops.github.io/openapi"
-homepage = "https://github.com/softprops/openapi"
-repository = "https://github.com/softprops/openapi"
+repository = "https://github.com/totalkrill/openapi_rocketapi"
 keywords = ["openapi", "swagger"]
 license = "MIT"
 edition = "2018"
